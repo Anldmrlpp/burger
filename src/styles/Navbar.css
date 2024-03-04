@@ -13,6 +13,8 @@
   .navbar .mainLink {
     margin-left: auto;
     margin-right: 50px;
+    font-family: cursive;
+    font-size: larger;
   }
   
   .navbar a {
