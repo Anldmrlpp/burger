@@ -10,7 +10,7 @@ function Footer() {
       <div className='socialMedia'>
         <FacebookIcon/>
         {/* Instagram ikonuna link ekleyelim */}
-        <a href="https://www.instagram.com/">
+        <a href="https://www.instagram.com/anldmrlpp_/">
           <InstagramIcon/>
         </a>
         <XIcon/>
