@@ -1,0 +1,28 @@
+.about {
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .aboutTop {
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 20px;
+  }
+  
+  .aboutBottom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .aboutText {
+    text-align: center;
+    width: 80%;
+
+
+    margin-top: -100px;
+    margin-bottom: 80px;
+  }
+  
