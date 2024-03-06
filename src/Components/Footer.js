@@ -15,7 +15,7 @@ function Footer() {
         </a>
         <XIcon/>
       </div>
-      <p>Tüm Hakları Saklıdır | Burger Yiyelim</p>
+      <p> © Tüm Hakları Saklıdır | Burger Yiyelim</p>
     </div>
   )
 }
